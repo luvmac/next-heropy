@@ -1,4 +1,4 @@
-import Button from "../components/Button"
+import Button from "@/components/Button"
 
 
 const title = '내 사이트 현재 페이지의 제목'

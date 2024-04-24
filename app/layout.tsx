@@ -1,6 +1,6 @@
 
-import './styles/global.scss'
-import { roboto } from './styles/font'
+import '@/styles/global.scss'
+import { roboto } from '@/styles/font'
 
 export const metadata = {
   title: {

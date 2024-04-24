@@ -1,6 +1,6 @@
 import { Suspense } from 'react'
 import Abc from '../Parallel/@abc/page'
-import Loader from '@/app/components/Loader'
+import Loader from "@/components/Loader";
 import Xyz from '../Parallel/@xyz/page'
 
 
